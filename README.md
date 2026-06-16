@@ -64,7 +64,7 @@ Displays:
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](dashboard.PNG)
 
 ## Author
 
